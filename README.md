@@ -12,3 +12,6 @@ Interactive Star Animation using Particles.js
    ```html
    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
   
+## **Screenshot**
+
+![Example Screenshot](https://github.com/daythewitch/Interactive-Particles/blob/main/examplescreenshot.png)
